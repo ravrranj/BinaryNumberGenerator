@@ -1,7 +1,3 @@
-# BinaryNumberGenerator
-Binary Number Generator : GUI using -- swing 
-
-
 # Binary Number Generator GUI 🔢
 
 A simple and stylish Java Swing application that generates binary numbers from 1 to N using a queue.
@@ -15,5 +11,4 @@ A simple and stylish Java Swing application that generates binary numbers from 1
 ## 🚀 How to Run
 Make sure Java 17 or above is installed.
 
-```bash
-java -jar dist/BinaryNumberGeneratorGUI.jar
+
