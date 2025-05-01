@@ -1,0 +1,38 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.out
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse specific files
+.project
+.classpath
+.settings/
+
+# IntelliJ specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# macOS Finder files
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+
+# Linux
+*~
+
+# Other files/folders you may want to ignore
+*.log
+*.bak
+*.swp
