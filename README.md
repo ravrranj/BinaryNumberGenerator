@@ -4,7 +4,7 @@ A simple Java Swing-based GUI application to generate binary numbers up to a giv
 
 ## 📸 Screenshot
 
-!![BinaryNumberGenerator](https://github.com/user-attachments/assets/e633d6a3-b6f6-4fee-b03e-e036a8d64b19)
+![BinaryNumberGenerator](https://github.com/user-attachments/assets/e633d6a3-b6f6-4fee-b03e-e036a8d64b19)
 (BinaryNumberGenerator.png)
 
 ## 🚀 Features
